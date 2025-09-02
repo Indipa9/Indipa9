@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indipa+Perera;Full+Stack+Developer+%7C+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Indipa+Perera;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Full Stack Developer | Tinkerer
+## 🚀 Full Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves building robust, scalable, and creative solutions. My tinkerer mindset keeps me exploring new technologies and approaches—if there's something to be improved, I'll try it!
 
