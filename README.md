@@ -4,7 +4,7 @@
 
 
 <!-- ![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/github-contribution-grid-snake.svg) -->
-![snake gif](https://github.com/Indipa9/Indipa9/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Indipa9/Indipa9/blob/output/snake.svg)
 ---
 
 ## 🚀 Full Stack Developer
