@@ -3,8 +3,7 @@
 </p>
 
 
-![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/snake.svg)
-![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/snake-dark.svg?palette=github-dark)
+![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
