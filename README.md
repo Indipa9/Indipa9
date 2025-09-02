@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F8ACB&center=true&vCenter=true&width=420&lines=Hi+there%2C+I'm+Indipa+Perera;Full+Stack+Developer+%7C+Tinkerer" alt="Typing SVG" />
 </p>
 
+![snake gif](https://raw.githubusercontent.com/<Indipa9/<your-username>/main/dist/snake.svg)
 
 
 ---
