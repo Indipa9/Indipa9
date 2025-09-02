@@ -3,8 +3,8 @@
 </p>
 
 
-![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/github-contribution-grid-snake.svg)
-
+<!-- ![snake gif](https://raw.githubusercontent.com/Indipa9/Me/main/dist/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/Indipa9/Indipa9/blob/output/github-contribution-grid-snake.gif)
 ---
 
 ## 🚀 Full Stack Developer
