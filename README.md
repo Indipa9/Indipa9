@@ -9,7 +9,7 @@
 
 ## 🚀 Full Stack Developer
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves building robust, scalable, and creative solutions. My tinkerer mindset keeps me exploring new technologies and approaches—if there's something to be improved, I'll try it!
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves building robust, scalable, and creative solutions. I like exploring new technologies and approaches—if there's something to be improved, I'll try it!
 
 ---
 
@@ -22,14 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-### 🎵 **Featured Project**
-#### [MelodyLink](https://github.com/Indipa9/framework/tree/main/melodylink)
-*Your gateway to musical discovery—part of my `framework` repo.*
 
----
-
-### 💡 **Fun Fact**
-**Tinkerer Mindset:** Always experimenting, always learning, always improving.
 
 ---
 
@@ -38,6 +31,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 ---
 
-> “Innovation is born from curiosity and a willingness to tinker.”
+
 
 Thanks for stopping by! Feel free to check out my projects or reach out for collaboration.
